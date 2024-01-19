@@ -1,1 +1,2 @@
-# SQL-Project
+# SQL_Project on Mavenmovies dataset
+The MavenMovies SQL project involves leveraging SQL queries to extract valuable insights and perform analysis on a dataset related to movies. This project aims to showcase the power of SQL in querying and analyzing structured data.Extract meaningful insights from the dataset using SQL queries.Perform aggregations, filtering, and sorting to analyze trends in movie data.
